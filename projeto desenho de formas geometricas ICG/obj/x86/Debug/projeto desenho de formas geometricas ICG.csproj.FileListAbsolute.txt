@@ -1,0 +1,34 @@
+C:\Users\yanue\OneDrive\Área de Trabalho\escola\2020\projeto desenho de formas geometricas ICG\projeto desenho de formas geometricas ICG\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\yanue\OneDrive\Área de Trabalho\escola\2020\projeto desenho de formas geometricas ICG\projeto desenho de formas geometricas ICG\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\yanue\OneDrive\Área de Trabalho\escola\2020\projeto desenho de formas geometricas ICG\projeto desenho de formas geometricas ICG\obj\x86\Debug\projeto desenho de formas geometricas ICG.csproj.GenerateResource.Cache
+C:\Users\yanue\OneDrive\Área de Trabalho\escola\2020\projeto desenho de formas geometricas ICG\projeto desenho de formas geometricas ICG\bin\Debug\projeto desenho de formas geometricas ICG.exe
+C:\Users\yanue\OneDrive\Área de Trabalho\escola\2020\projeto desenho de formas geometricas ICG\projeto desenho de formas geometricas ICG\bin\Debug\projeto desenho de formas geometricas ICG.pdb
+C:\Users\yanue\OneDrive\Área de Trabalho\escola\2020\projeto desenho de formas geometricas ICG\projeto desenho de formas geometricas ICG\obj\x86\Debug\projeto desenho de formas geometricas ICG.exe
+C:\Users\yanue\OneDrive\Área de Trabalho\escola\2020\projeto desenho de formas geometricas ICG\projeto desenho de formas geometricas ICG\obj\x86\Debug\projeto desenho de formas geometricas ICG.pdb
+C:\Users\yanue\OneDrive\Área de Trabalho\escola\2020\projeto desenho de formas geometricas ICG\projeto desenho de formas geometricas ICG\obj\x86\Debug\projeto desenho de formas geometricas ICG.csprojResolveAssemblyReference.cache
+C:\Users\yanue\OneDrive\Área de Trabalho\escola\2020\wagner\projeto desenho de formas geometricas ICG\projeto desenho de formas geometricas ICG\obj\x86\Debug\projeto desenho de formas geometricas ICG.csprojAssemblyReference.cache
+C:\Users\yanue\OneDrive\Área de Trabalho\escola\2020\wagner\projeto desenho de formas geometricas ICG\projeto desenho de formas geometricas ICG\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\yanue\OneDrive\Área de Trabalho\escola\2020\wagner\projeto desenho de formas geometricas ICG\projeto desenho de formas geometricas ICG\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\yanue\OneDrive\Área de Trabalho\escola\2020\wagner\projeto desenho de formas geometricas ICG\projeto desenho de formas geometricas ICG\obj\x86\Debug\projeto desenho de formas geometricas ICG.csproj.GenerateResource.cache
+C:\Users\yanue\OneDrive\Área de Trabalho\escola\2020\wagner\projeto desenho de formas geometricas ICG\projeto desenho de formas geometricas ICG\obj\x86\Debug\projeto desenho de formas geometricas ICG.csproj.CoreCompileInputs.cache
+C:\Users\yanue\OneDrive\Área de Trabalho\escola\2020\wagner\projeto desenho de formas geometricas ICG\projeto desenho de formas geometricas ICG\obj\x86\Debug\projeto desenho de formas geometricas ICG.exe
+C:\Users\yanue\OneDrive\Área de Trabalho\escola\2020\wagner\projeto desenho de formas geometricas ICG\projeto desenho de formas geometricas ICG\obj\x86\Debug\projeto desenho de formas geometricas ICG.pdb
+C:\Users\yanue\OneDrive\Área de Trabalho\escola\2020\wagner\projeto desenho de formas geometricas ICG\projeto desenho de formas geometricas ICG\bin\Debug\projeto desenho de formas geometricas ICG.exe
+C:\Users\yanue\OneDrive\Área de Trabalho\escola\2020\wagner\projeto desenho de formas geometricas ICG\projeto desenho de formas geometricas ICG\bin\Debug\projeto desenho de formas geometricas ICG.pdb
+C:\Users\yanue\Desktop\escola\2020\wagner\projeto desenho de formas geometricas ICG\projeto desenho de formas geometricas ICG\obj\x86\Debug\projeto desenho de formas geometricas ICG.exe
+C:\Users\yanue\Desktop\escola\2020\wagner\projeto desenho de formas geometricas ICG\projeto desenho de formas geometricas ICG\obj\x86\Debug\projeto desenho de formas geometricas ICG.pdb
+C:\Users\yanue\Desktop\escola\2020\wagner\projeto desenho de formas geometricas ICG\projeto desenho de formas geometricas ICG\bin\Debug\projeto desenho de formas geometricas ICG.exe
+C:\Users\yanue\Desktop\escola\2020\wagner\projeto desenho de formas geometricas ICG\projeto desenho de formas geometricas ICG\bin\Debug\projeto desenho de formas geometricas ICG.pdb
+C:\Users\yanue\Desktop\escola\2020\wagner\projeto desenho de formas geometricas ICG\projeto desenho de formas geometricas ICG\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\yanue\Desktop\escola\2020\wagner\projeto desenho de formas geometricas ICG\projeto desenho de formas geometricas ICG\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\yanue\Desktop\escola\2020\wagner\projeto desenho de formas geometricas ICG\projeto desenho de formas geometricas ICG\obj\x86\Debug\projeto desenho de formas geometricas ICG.csproj.GenerateResource.Cache
+C:\Users\yanue\Desktop\escola\2020\wagner\projeto desenho de formas geometricas ICG\projeto desenho de formas geometricas ICG\obj\x86\Debug\projeto desenho de formas geometricas ICG.csprojResolveAssemblyReference.cache
+E:\escola\2020\wagner\projeto desenho de formas geometricas ICG\projeto desenho de formas geometricas ICG\bin\Debug\projeto desenho de formas geometricas ICG.exe
+E:\escola\2020\wagner\projeto desenho de formas geometricas ICG\projeto desenho de formas geometricas ICG\bin\Debug\projeto desenho de formas geometricas ICG.pdb
+E:\escola\2020\wagner\projeto desenho de formas geometricas ICG\projeto desenho de formas geometricas ICG\obj\x86\Debug\projeto desenho de formas geometricas ICG.csproj.AssemblyReference.cache
+E:\escola\2020\wagner\projeto desenho de formas geometricas ICG\projeto desenho de formas geometricas ICG\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\escola\2020\wagner\projeto desenho de formas geometricas ICG\projeto desenho de formas geometricas ICG\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\escola\2020\wagner\projeto desenho de formas geometricas ICG\projeto desenho de formas geometricas ICG\obj\x86\Debug\projeto desenho de formas geometricas ICG.csproj.GenerateResource.cache
+E:\escola\2020\wagner\projeto desenho de formas geometricas ICG\projeto desenho de formas geometricas ICG\obj\x86\Debug\projeto desenho de formas geometricas ICG.csproj.CoreCompileInputs.cache
+E:\escola\2020\wagner\projeto desenho de formas geometricas ICG\projeto desenho de formas geometricas ICG\obj\x86\Debug\projeto desenho de formas geometricas ICG.exe
+E:\escola\2020\wagner\projeto desenho de formas geometricas ICG\projeto desenho de formas geometricas ICG\obj\x86\Debug\projeto desenho de formas geometricas ICG.pdb
